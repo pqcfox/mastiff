@@ -1,4 +1,4 @@
-# mastiff
+# Mastiff
 
 Mastiff is an implementation of the famous Bulldog VLIW compiler in the Rust programming language.
 
