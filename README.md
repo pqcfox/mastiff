@@ -1,5 +1,6 @@
 # mastiff
-An implementation of the classic Bulldog VLIW compiler in Rust.
+
+Mastiff is an implementation of the famous Bulldog VLIW compiler in the Rust programming language.
 
 ## What's VLIW?
 
@@ -13,7 +14,9 @@ Bulldog was the first VLIW compiler, developed by John Ellis at Yale in 1985.
 
 ## Why are you doing this?
 
-First, the history of VLIW is fascinating. From its humble start...
+First, the history of VLIW is fascinating. 
+
+...
 
 
 
